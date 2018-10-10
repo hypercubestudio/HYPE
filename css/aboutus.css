@@ -1,0 +1,183 @@
+@import url(http://fonts.font.im/css?family=Open+Sans:400,300,300italic,400italic,600,700,600italic,700italic,800);
+
+body{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+/*----------------导航栏start-----------------------*/
+.navbar-brand {
+    margin-left: 10px;
+}
+
+@media only screen and (min-width:1700px) {
+    .navbar-nav {
+        float: left;
+        margin-left: 800px;
+
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+#navbarSupportedContent a.nav-link {
+    padding: 0 30px;
+    font-size: 14px;
+    color: black;
+
+}
+
+#navbarSupportedContent a:hover {
+    color: #5a6268;
+}
+
+
+
+/*----------------导航栏end-----------------------*/
+
+
+
+
+
+
+
+/*----------------关于我们start-----------------------*/
+.frist {
+    margin-top: 200px;
+    margin-left: 85px;
+
+
+}
+
+.frist h2 {
+    line-height: 48px;
+}
+
+
+.frist p {
+    line-height: 30px;
+}
+
+
+.dark {
+    height: 20px;
+}
+
+.logo {
+    margin-top: 120px;
+}
+/*----------------关于我们end-----------------------*/
+
+
+
+
+/*----------------团队start-----------------------*/
+.team {
+    margin-top: 85px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+/*----------------团队start-----------------------*/
+
+
+
+
+
+
+
+
+
+
+/*----------------作品案例start-----------------------*/
+
+.mlr {
+    margin: 0 80px;
+    margin-top: 80px;
+}
+
+.w-100 {
+    margin: 20px 0;
+}
+
+.figure-caption {
+    font-size: 18px;
+    margin: 10px 0;
+    color: black;
+}
+
+.figure-caption a {
+    text-decoration: none;
+    color: black;
+}
+
+
+/*----------------作品案例end-----------------------*/
+
+
+
+.dark-news {
+    border-bottom: 1px solid gray;
+    padding: 30px;
+    margin: 0 70px;
+    margin-top: 200px;
+
+}
+
+
+/*----------------footer start-----------------------*/
+.footer {
+
+    margin: 120px 0px;
+
+}
+
+.logo2 {
+    margin: 0 200px;
+}
+.hyper {
+    display: block;
+    margin: 60px 200px;
+}
+
+.footer ul li{
+    display: inline-block;
+    float: left;
+    padding:0 60px;
+}
+
+.add {
+    margin-top: 60px;
+    line-height: 30px;
+}
+
+.footer ul {
+
+    margin-left:-150px;
+}
+
+
+.dark-footer{
+    border-bottom: 1px solid gray;
+
+    margin: 0px 50px;
+    margin-top: 100px;
+
+}
+
+.footer-bottom {
+    margin: 0px 50px;
+    margin-top: 10px;
+}
+
+/*----------------footer end-----------------------*/
