@@ -156,11 +156,8 @@ body{
     outline: none;
 }
 
-.dark-content-1 {
-    border-bottom: 1px solid gray;
-    margin: 80px 0;
-    margin-left: 150px;
-}
+
+
 /*----------------职位end-----------------------*/
 
 
@@ -178,8 +175,8 @@ body{
 /*----------------footer start-----------------------*/
 
 .footer {
-
-    margin: 120px 0px;
+    margin-top: 120px;
+    margin-bottom: 10px;
 
 }
 
@@ -218,7 +215,8 @@ body{
 }
 
 .footer-bottom {
-    margin: 0px 50px;
+    margin-left: 50px;
+    margin-right: 50px;
     margin-top: 10px;
 }
 /*----------------footer end-----------------------*/
