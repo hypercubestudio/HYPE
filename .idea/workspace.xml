@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d1d82b-b855-476d-b999-eedce6145c3b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brandstrategy.html" beforeDir="false" afterPath="$PROJECT_DIR$/brandstrategy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/e-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/e-commerce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphicdesign.html" beforeDir="false" afterPath="$PROJECT_DIR$/graphicdesign.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/basicthree/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/basicthree/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gujiguji/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gujiguji/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/muse/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vedio.html" beforeDir="false" afterPath="$PROJECT_DIR$/vedio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/works.html" afterDir="false" />
-    </list>
+    <list default="true" id="10d1d82b-b855-476d-b999-eedce6145c3b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -56,13 +35,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="5480" />
-          <entry key="html" value="6600" />
+          <entry key="html" value="6604" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="5480" />
-          <entry key="HTML" value="6600" />
+          <entry key="HTML" value="6604" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -194,10 +173,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basicthree.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-287">
-              <caret line="123" column="43" selection-start-line="123" selection-start-column="43" selection-end-line="123" selection-end-column="43" />
+            <state relative-caret-position="473">
+              <caret line="170" selection-start-line="170" selection-end-line="170" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -255,7 +235,6 @@
         <option value="$PROJECT_DIR$/css/basicthree.css" />
         <option value="$PROJECT_DIR$/lento.html" />
         <option value="$PROJECT_DIR$/greenrich.html" />
-        <option value="$PROJECT_DIR$/basicthree.html" />
         <option value="$PROJECT_DIR$/joinus.html" />
         <option value="$PROJECT_DIR$/css/ourworks.css" />
         <option value="$PROJECT_DIR$/css/brandstrategy.css" />
@@ -273,6 +252,7 @@
         <option value="$PROJECT_DIR$/brandstrategy.html" />
         <option value="$PROJECT_DIR$/e-commerce.html" />
         <option value="$PROJECT_DIR$/vedio.html" />
+        <option value="$PROJECT_DIR$/basicthree.html" />
       </list>
     </option>
   </component>
@@ -346,15 +326,16 @@
       <updated>1538318316130</updated>
       <workItem from="1538318317252" duration="4434000" />
       <workItem from="1538649618235" duration="110323000" />
-      <workItem from="1539871223201" duration="2964000" />
+      <workItem from="1539871223201" duration="3195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117721000" />
+    <option name="totallyTimeSpent" value="117952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="23" width="1406" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24909747" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -681,10 +662,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basicthree.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-287">
-          <caret line="123" column="43" selection-start-line="123" selection-start-column="43" selection-end-line="123" selection-end-column="43" />
+        <state relative-caret-position="473">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
